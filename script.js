@@ -79,10 +79,9 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==========================================
     const typingElement = document.getElementById('typing-headline');
     const phrases = [
-        "AI & Cybersecurity Enthusiast",
-        "M.Tech CSE (Network & Security)",
-        "Python Developer",
-        "Machine Learning Learner"
+        "M.Tech Network & Security Student",
+        "Cybersecurity Enthusiast",
+        "Software Developer"
     ];
     let phraseIndex = 0;
     let charIndex = 0;
